@@ -1,0 +1,14 @@
+# Secrets and local env
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.idea/
+*.swp
+*.swo
