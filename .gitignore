@@ -12,3 +12,6 @@ Desktop.ini
 .idea/
 *.swp
 *.swo
+
+# Local Docker volume exports
+volume-backups/
